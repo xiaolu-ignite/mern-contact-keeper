@@ -21,7 +21,7 @@ const Navbar = ({ title, icon }) => {
 }
 
 Navbar.propTypes = {
-  titile: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
   icon: PropTypes.string
 }
 
